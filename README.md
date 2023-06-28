@@ -19,10 +19,10 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </div>
 </div>
-<div style="text-align: center;margin-top: 30px;">
+<div align="center" style="margin-top: 30px;">
     <h1 style="font-weight: bold;">Vitor Hideyoshi</h1>
 </div>
-<div style="text-align: center;margin-top: 30px;">
+<div align="center" style="margin-top: 30px;">
     <h2>Main Projects</h2>
     <div style="text-align: center">
         <img width="282"
@@ -54,7 +54,7 @@
             alt="github-readme-streak-stats">
     </div>
 </div>
-<div style="text-align: center;margin-top: 30px;">
+<div align="center" style="margin-top: 30px;">
     <h2>My Statistics</h2>
     <div style="margin-top: 10px;">
         <img align="center"
@@ -71,7 +71,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=HideyoshiNakazone&theme=dark&hide_border=true" />
     </div>
 </div>
-<div style="text-align: center;margin-top: 30px;">
+<div align="center" style="margin-top: 30px;">
     <h2>Contact Me</h2>
     <div>
         <a href="https://github.com/HideyoshiNakazone">
