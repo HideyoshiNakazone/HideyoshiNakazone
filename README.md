@@ -26,31 +26,31 @@
     <h2>Main Projects</h2>
     <div style="text-align: center">
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=hideyoshi.com&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&show_icons=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=hideyoshi.com&theme=dark&card_width=564"
             alt="github-readme-streak-stats">
     </div>
     <div>
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=frontend-hideyoshi.com&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&show_icons=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=frontend-hideyoshi.com&theme=dark"
             alt="github-readme-streak-stats">
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=backend-hideyoshi.com&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&show_icons=true"
-            alt="github-readme-streak-stats">
-    </div>
-    <div>
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=infra-hideyoshi.com&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&show_icons=true"
-            alt="github-readme-streak-stats">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=duo-client-backend&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=backend-hideyoshi.com&theme=dark"
             alt="github-readme-streak-stats">
     </div>
     <div>
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=DicePlayer&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&show_icons=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=infra-hideyoshi.com&theme=dark"
             alt="github-readme-streak-stats">
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=CrystalPol&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&show_icons=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=duo-client-backend&theme=dark"
+            alt="github-readme-streak-stats">
+    </div>
+    <div>
+        <img width="282"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=DicePlayer&theme=dark"
+            alt="github-readme-streak-stats">
+        <img width="282"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=CrystalPol&theme=dark"
             alt="github-readme-streak-stats">
     </div>
 </div>
@@ -58,17 +58,17 @@
     <h2>My Statistics</h2>
     <div style="margin-top: 10px;">
         <img align="center"
-            src="https://github-readme-streak-stats.herokuapp.com?user=HideyoshiNakazone&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+            src="https://github-readme-streak-stats.herokuapp.com?user=HideyoshiNakazone&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
             alt="My github stats" />
     </div>
     <div style="margin-top: 10px;">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=HideyoshiNakazone&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true"
+            src="https://github-readme-stats.vercel.app/api?username=HideyoshiNakazone&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
             alt="My github stats" />
     </div>
     <div style="margin-top: 10px;">
         <img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HideyoshiNakazone&layout=compact&theme=cobalt&hide_border=true" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HideyoshiNakazone&theme=dark&hide_border=true" />
     </div>
 </div>
 <div style="text-align: center;margin-top: 30px;">
