@@ -25,50 +25,70 @@
 <div align="center" style="margin-top: 30px;">
     <h2>Main Projects</h2>
     <div style="text-align: center">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=hideyoshi.com&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
+        <a href="https://github.com/HideyoshiNakazone/hideyoshi.com">
+            <img width="282"
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=hideyoshi.com&theme=dark&hide_border=true"
+                alt="github-readme-streak-stats">
+        </a>
     </div>
     <div>
+        <a href="https://github.com/HideyoshiNakazone/frontend-hideyoshi.com">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=frontend-hideyoshi.com&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
+        </a>
+        <a href="https://github.com/HideyoshiNakazone/backend-hideyoshi.com">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=backend-hideyoshi.com&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
+        </a>
     </div>
     <div>
+        <a href="https://github.com/HideyoshiNakazone/infra-hideyoshi.com">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=infra-hideyoshi.com&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
+        </a>
+        <a href="https://github.com/HideyoshiNakazone/duo-client-backend">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=duo-client-backend&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
+        </a>
     </div>
     <div>
+        <a href="https://github.com/HideyoshiNakazone/DicePlayer">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=DicePlayer&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
+        </a>
+        <a href="https://github.com/HideyoshiNakazone/CrystalPol">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=CrystalPol&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
+        </a>
     </div>
 </div>
 <div align="center" style="margin-top: 30px;">
     <h2>My Statistics</h2>
     <div style="margin-top: 10px;">
+        <a href="">
         <img align="center"
             src="https://github-readme-streak-stats.herokuapp.com?user=HideyoshiNakazone&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
             alt="My github stats" />
+        </a>
     </div>
     <div style="margin-top: 10px;">
+        <a href="">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=HideyoshiNakazone&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
             alt="My github stats" />
+        </a>
     </div>
     <div style="margin-top: 10px;">
+        <a href="">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=HideyoshiNakazone&theme=dark&hide_border=true" />
+        </a>
     </div>
 </div>
 <div align="center" style="margin-top: 30px;">
