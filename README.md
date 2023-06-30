@@ -19,10 +19,10 @@
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </div>
 </div>
-<div align="center" style="margin-top: 30px;">
+<div align="center">
     <h1 style="font-weight: bold;">Vitor Hideyoshi</h1>
 </div>
-<div align="center" style="margin-top: 30px;">
+<div align="center">
     <h2>Main Projects</h2>
     <div style="text-align: center">
         <a href="https://github.com/HideyoshiNakazone/hideyoshi.com">
@@ -68,30 +68,38 @@
         </a>
     </div>
 </div>
-<div align="center" style="margin-top: 30px;">
+
+<br /><br />
+
+<div align="center">
     <h2>My Statistics</h2>
-    <div style="margin-top: 10px;">
+    <div>
         <a href="">
         <img align="center"
             src="https://github-readme-streak-stats.herokuapp.com?user=HideyoshiNakazone&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
             alt="My github stats" />
         </a>
     </div>
-    <div style="margin-top: 10px;">
+    <br /><br />
+    <div>
         <a href="">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=HideyoshiNakazone&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"
             alt="My github stats" />
         </a>
     </div>
-    <div style="margin-top: 10px;">
+    <br /><br />
+    <div>
         <a href="">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=HideyoshiNakazone&theme=dark&hide_border=true" />
         </a>
     </div>
 </div>
-<div align="center" style="margin-top: 30px;">
+
+<br /><br />
+
+<div align="center">
     <h2>Contact Me</h2>
     <div>
         <a href="https://github.com/HideyoshiNakazone">
