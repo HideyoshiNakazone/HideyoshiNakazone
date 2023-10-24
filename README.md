@@ -30,16 +30,21 @@
                 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=hideyoshi.com&theme=dark&hide_border=true"
                 alt="github-readme-streak-stats">
         </a>
-    </div>
-    <div>
         <a href="https://github.com/HideyoshiNakazone/frontend-hideyoshi.com">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=frontend-hideyoshi.com&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
         </a>
+    </div>
+    <div>
         <a href="https://github.com/HideyoshiNakazone/backend-hideyoshi.com">
         <img width="282"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=backend-hideyoshi.com&theme=dark&hide_border=true"
+            alt="github-readme-streak-stats">
+        </a>
+        <a href="https://github.com/HideyoshiNakazone/storage-hideyoshi.com">
+        <img width="282"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=storage-hideyoshi.com&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
         </a>
     </div>
@@ -49,9 +54,9 @@
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=infra-hideyoshi.com&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
         </a>
-        <a href="https://github.com/HideyoshiNakazone/duo-client-backend">
+        <a href="https://github.com/HideyoshiNakazone/terraform-hideyoshi.com">
         <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=duo-client-backend&theme=dark&hide_border=true"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=terraform-hideyoshi.com&theme=dark&hide_border=true"
             alt="github-readme-streak-stats">
         </a>
     </div>
