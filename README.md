@@ -30,46 +30,34 @@
                 src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=hideyoshi.com&theme=dark&hide_border=true"
                 alt="github-readme-streak-stats">
         </a>
-        <a href="https://github.com/HideyoshiNakazone/frontend-hideyoshi.com">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=frontend-hideyoshi.com&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
+        <a href="https://github.com/HideyoshiNakazone/jambo">
+            <img width="282"
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=jambo&theme=dark&hide_border=true"
+                alt="github-readme-streak-stats">
         </a>
     </div>
-    <div>
-        <a href="https://github.com/HideyoshiNakazone/backend-hideyoshi.com">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=backend-hideyoshi.com&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
+    <div style="text-align: center">
+        <a href="https://github.com/HideyoshiNakazone/terraform-provider-yoshik3s">
+            <img width="282"
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=terraform-provider-yoshik3s&theme=dark&hide_border=true"
+                alt="github-readme-streak-stats">
         </a>
-        <a href="https://github.com/HideyoshiNakazone/storage-hideyoshi.com">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=storage-hideyoshi.com&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/HideyoshiNakazone/infra-hideyoshi.com">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=infra-hideyoshi.com&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
-        </a>
-        <a href="https://github.com/HideyoshiNakazone/terraform-hideyoshi.com">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=terraform-hideyoshi.com&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
+        <a href="https://github.com/HideyoshiNakazone/redis-queue-rs">
+            <img width="282"
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=redis-queue-rs&theme=dark&hide_border=true"
+                alt="github-readme-streak-stats">
         </a>
     </div>
     <div>
         <a href="https://github.com/HideyoshiNakazone/DicePlayer">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=DicePlayer&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
+            <img width="282"
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=DicePlayer&theme=dark&hide_border=true"
+                alt="github-readme-streak-stats">
         </a>
         <a href="https://github.com/HideyoshiNakazone/CrystalPol">
-        <img width="282"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=CrystalPol&theme=dark&hide_border=true"
-            alt="github-readme-streak-stats">
+            <img width="282"
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HideyoshiNakazone&repo=CrystalPol&theme=dark&hide_border=true"
+                alt="github-readme-streak-stats">
         </a>
     </div>
 </div>
